@@ -29,9 +29,9 @@ import (
 	"path"
 	"strings"
 
-	"pault.ag/go/debian/control"
-	"pault.ag/go/debian/dependency"
-	"pault.ag/go/debian/version"
+	"github.com/pschou/go_debian/control"
+	"github.com/pschou/go_debian/dependency"
+	"github.com/pschou/go_debian/version"
 )
 
 // Control {{{

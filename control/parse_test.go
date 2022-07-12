@@ -27,7 +27,7 @@ import (
 	"testing"
 
 	"golang.org/x/crypto/openpgp"
-	"pault.ag/go/debian/control"
+	"github.com/pschou/go_debian/control"
 )
 
 /*

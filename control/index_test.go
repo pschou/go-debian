@@ -25,7 +25,7 @@ import (
 	"strings"
 	"testing"
 
-	"pault.ag/go/debian/control"
+	"github.com/pschou/go_debian/control"
 )
 
 func TestSourceIndexParse(t *testing.T) {

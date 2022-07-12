@@ -26,7 +26,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"pault.ag/go/debian/dependency"
+	"github.com/pschou/go_debian/dependency"
 )
 
 // Encapsulation for a debian/control file, which is a series of RFC2822-like
