@@ -23,8 +23,8 @@ package dependency_test
 import (
 	"testing"
 
-	"github.com/pschou/go_debian/dependency"
-	"github.com/pschou/go_debian/version"
+	"github.com/pschou/go-debian/dependency"
+	"github.com/pschou/go-debian/version"
 )
 
 /*

@@ -25,7 +25,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/pschou/go_debian/control"
+	"github.com/pschou/go-debian/control"
 )
 
 /*

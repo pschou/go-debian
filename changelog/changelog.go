@@ -28,7 +28,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pschou/go_debian/version"
+	"github.com/pschou/go-debian/version"
 )
 
 // A ChangelogEntry is the encapsulation for each entry for a given version

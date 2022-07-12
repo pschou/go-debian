@@ -21,7 +21,7 @@
 package dependency
 
 import (
-	"github.com/pschou/go_debian/version"
+	"github.com/pschou/go-debian/version"
 )
 
 //

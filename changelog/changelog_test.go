@@ -27,7 +27,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/pschou/go_debian/changelog"
+	"github.com/pschou/go-debian/changelog"
 )
 
 /*

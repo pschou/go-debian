@@ -28,9 +28,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/pschou/go_debian/dependency"
-	"github.com/pschou/go_debian/internal"
-	"github.com/pschou/go_debian/version"
+	"github.com/pschou/go-debian/dependency"
+	"github.com/pschou/go-debian/internal"
+	"github.com/pschou/go-debian/version"
 
 	"pault.ag/go/topsort"
 )
